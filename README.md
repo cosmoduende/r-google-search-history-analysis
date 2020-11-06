@@ -1,2 +1,2 @@
 # r-google-search-history-analysis
-Explore your activity on Google with R: How to Analyze and Visualize Your Personal Data Search History Find out how and how much you have used the most popular search engine in the world, using a copy of your personal data. Medium article: 
+Explore your activity on Google with R: How to Analyze and Visualize Your Personal Data Search History Find out how and how much you have used the most popular search engine in the world, using a copy of your personal data. Medium article: https://cosmoduende.medium.com/explore-your-activity-on-google-with-r-how-to-analyze-and-visualize-your-search-history-1fb74e5fb2b6
